@@ -1,0 +1,8 @@
+
+		ADMIN DETAILS
+
+		First Name : Viresh Panchal
+		Age : 23
+		Gender : M
+		Mobile No : 9512291418
+		Address : Ratlam
